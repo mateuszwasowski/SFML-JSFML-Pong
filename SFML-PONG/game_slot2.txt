@@ -1,0 +1,6 @@
+Time: 27 | Score : 0 : 10
+Time: 154 | Score : 6 : 10
+Time: 14 | Score : 2 : 0
+Time: 20 | Score : 1 : 0
+Time: 22 | Score : 1 : 0
+Time: 27 | Score : 0 : 0

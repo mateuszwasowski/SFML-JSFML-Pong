@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1432651088 source:c:\users\mati\desktop\pong\main.cpp
+	<SFML/Graphics.hpp>
+	"include/Rectangle.h"
+	"include/Paddle.h"
+	"include/Ball.h"
+	"include/UtilText.h"
+	"include/Gameslot.h"
+	<string>
+	<sstream>
+	<math.h>
+	<iostream>
+
+1432641712 c:\users\mati\desktop\pong\include\rectangle.h
+	<SFML/Graphics.hpp>
+
+1432071473 source:c:\users\mati\desktop\pong\src\rectangle.cpp
+	"../include/Rectangle.h"
+
+1432071486 c:\users\mati\desktop\pong\include\paddle.h
+	"../include/Rectangle.h"
+
+1432071479 source:c:\users\mati\desktop\pong\src\paddle.cpp
+	"../include/Paddle.h"
+
+1432071490 source:c:\users\mati\desktop\pong\src\ball.cpp
+	"../include/Ball.h"
+
+1432071483 c:\users\mati\desktop\pong\include\ball.h
+	<SFML/Graphics.hpp>
+	"../include/paddle.h"
+
+1432071495 c:\users\mati\desktop\pong\include\utiltext.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1432071500 source:c:\users\mati\desktop\pong\src\utiltext.cpp
+	"../include/UtilText.h"
+
+1432150726 source:c:\users\mati\desktop\pong\src\gameslot.cpp
+	"../include/Gameslot.h"
+
+1432150735 c:\users\mati\desktop\pong\include\gameslot.h
+	<string>
+	<fstream>
+
+1432647488 source:c:\users\mati\desktop\pong\sfml-pong\main.cpp
+	<SFML/Graphics.hpp>
+	"include/Rectangle.h"
+	"include/Paddle.h"
+	"include/Ball.h"
+	"include/UtilText.h"
+	"include/Gameslot.h"
+	<string>
+	<sstream>
+	<math.h>
+	<iostream>
+
+1432638112 c:\users\mati\desktop\pong\sfml-pong\include\rectangle.h
+	<SFML/Graphics.hpp>
+
+1432067886 c:\users\mati\desktop\pong\sfml-pong\include\paddle.h
+	"../include/Rectangle.h"
+
+1432067883 c:\users\mati\desktop\pong\sfml-pong\include\ball.h
+	<SFML/Graphics.hpp>
+	"../include/paddle.h"
+
+1432067895 c:\users\mati\desktop\pong\sfml-pong\include\utiltext.h
+	<SFML/Graphics.hpp>
+	<string>
+
+1432147135 c:\users\mati\desktop\pong\sfml-pong\include\gameslot.h
+	<string>
+	<fstream>
+
+1432067890 source:c:\users\mati\desktop\pong\sfml-pong\src\ball.cpp
+	"../include/Ball.h"
+
+1432147126 source:c:\users\mati\desktop\pong\sfml-pong\src\gameslot.cpp
+	"../include/Gameslot.h"
+
+1432067879 source:c:\users\mati\desktop\pong\sfml-pong\src\paddle.cpp
+	"../include/Paddle.h"
+
+1432067873 source:c:\users\mati\desktop\pong\sfml-pong\src\rectangle.cpp
+	"../include/Rectangle.h"
+
+1432067900 source:c:\users\mati\desktop\pong\sfml-pong\src\utiltext.cpp
+	"../include/UtilText.h"
+
